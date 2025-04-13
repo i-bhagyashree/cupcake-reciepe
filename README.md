@@ -1,2 +1,1 @@
-CUPCAKE
-the cupcake recipe
+cupcake recipe
